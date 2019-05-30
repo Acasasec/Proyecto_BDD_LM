@@ -1,0 +1,9 @@
+<!ELEMENT vehiculos (vehiculo+)>
+<!ELEMENT vehiculo (ID_vehiculo, Matricula, numBastidor, Color, numAsientos, precio, ID_Serie)>
+<!ELEMENT ID_vehiculo (#PCDATA)>
+<!ELEMENT Matricula (#PCDATA)>
+<!ELEMENT numBastidor (#PCDATA)>
+<!ELEMENT Color (#PCDATA)>
+<!ELEMENT numAsientos (#PCDATA)>
+<!ELEMENT precio (#PCDATA)>
+<!ELEMENT ID_Serie (#PCDATA)>

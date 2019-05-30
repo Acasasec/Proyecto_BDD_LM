@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href=""?>
+
+<!DOCTYPE vehiculos SYSTEM "vehiculos.dtd">
+
+
+<vehiculos xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="vehiculos_v2.xsd">
+    <vehiculo>
+        <ID_vehiculo>122</ID_vehiculo>
+        <Matricula>4962LMM</Matricula>
+        <numBastidor>25478POL96521DFRV48</numBastidor>
+        <Color>VERDE</Color>
+        <numAsientos>5</numAsientos>
+        <precio>8000</precio>
+        <ID_Serie>1</ID_Serie>
+    </vehiculo>
+    <vehiculo>
+        <ID_vehiculo>123</ID_vehiculo>
+        <Matricula>6789JKI</Matricula>
+        <numBastidor>254698YTK4598POIM</numBastidor>
+        <Color>ROJO</Color>
+        <numAsientos>3</numAsientos>
+        <precio>5001</precio>
+        <ID_Serie>2</ID_Serie>
+    </vehiculo>
+    <vehiculo>
+        <ID_vehiculo>121</ID_vehiculo>
+        <Matricula>2030HJY</Matricula>
+        <numBastidor>8541LÑMFD485SA214</numBastidor>
+        <Color>AZUL</Color>
+        <numAsientos>5</numAsientos>
+        <precio>10000</precio>
+        <ID_Serie>7</ID_Serie>
+    </vehiculo>    
+</vehiculos>
